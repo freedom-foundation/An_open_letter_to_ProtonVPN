@@ -26,7 +26,7 @@ The likelihood of the scenario reported being used in an exploit is high in fact
  Without regard to software security industry standards and best practices, unfortunately the standard seems to be flaw or intended vulnerabilities when these are best practices good, better and best, are left behind. 
 
 
-[CITE] Defeat censorship with Stealth -> Why is stealth needed? -> And as deep packet inspection (DPI) technology becomes more widespread
+[CITE] Defeat censorship with Stealth -> Why is stealth needed? -> And as deep packet inspection (DPI) technology becomes more widespread (https://protonvpn.com/blog/stealth-vpn-protocol/)
 
 It is obvious DPI is the antagonist here and Proton is aware of this.
 
