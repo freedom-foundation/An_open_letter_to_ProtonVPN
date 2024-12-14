@@ -25,7 +25,7 @@ The likelihood of the scenario reported being used in an exploit is high in fact
  Without regard to software security industry standards and best practices, unfortunately the standard seems to be flaw or intended vulnerabilities when these are best practices good, better and best, are left behind. 
 
 
-[C]: Defeat censorship with Stealth -> Why is stealth needed? -> And as deep packet inspection (DPI) technology becomes more widespread (https://protonvpn.com/blog/stealth-vpn-protocol/)
+[C]: The app read's under Settings > Connection Protocol > Stealth Overcomes VPN blocks by hiding your VPN connection from censors. This protocol is DPI (deep packet inspection) resistant, but may not be as fast as other protocols. Stealth is exclusive to Proton VPN. Learn more link's to the blog where this may be read: Defeat censorship with Stealth -> Why is stealth needed? -> And as deep packet inspection (DPI) technology becomes more widespread (https://protonvpn.com/blog/stealth-vpn-protocol/)
 
 It is obvious DPI is the antagonist here and Proton is aware of this.
 
